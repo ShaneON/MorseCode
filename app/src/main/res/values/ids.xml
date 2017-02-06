@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="searchBluetoothButton" type="id">searchBluetoothButton</item>
+    <item name="sendMessage" type="id">sendMessage</item>
+    <item name="send_message_button" type="id">send_message_button</item>
+    <item name="send_message" type="id">send_message</item>
+</resources>
